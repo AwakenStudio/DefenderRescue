@@ -1,0 +1,1 @@
+q-ÈS<?php exit; ?>a:1:{s:7:"content";a:6:{s:16:"wpseo_permalinks";b:1;s:12:"wpseo_social";b:1;s:9:"wpseo_rss";b:1;s:19:"wpseo_internallinks";b:1;s:9:"wpseo_xml";b:1;s:18:"mc4wp_code_version";b:1;}}
